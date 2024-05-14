@@ -2075,7 +2075,7 @@ th {
 }
     .right-section {
         display: flex;
-       justify-content: space-between;
+       justify-content: space-evenly;
        height: 350px;
         align-items: center;
         width: 90vw;
